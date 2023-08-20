@@ -1,0 +1,9 @@
+requests
+openai
+langchain
+selenium
+pycryptodome
+pandas
+pytesseract
+streamlit
+openpyxl
